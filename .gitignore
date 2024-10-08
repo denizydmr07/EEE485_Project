@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-specific
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Data files
+*.csv
+*.zip
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment config files
+*.env
+*.ini
+*.cfg
+
+# Ignore logs
+*.log
+
+# Ignore compiled output
+*.out
+*.o
+*.class
+
+# Ignore all files in the __pycache__ directories
+__pycache__/
+
+# Ignore personal configuration files (optional)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
